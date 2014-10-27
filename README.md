@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-Initial reposiroty for Github
+Initial repositoryfor Github
+
+Everything ok!
+Need to learn many things
